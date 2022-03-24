@@ -15,6 +15,7 @@ public class PRacticeTestclss {
 	@BeforeMethod
 	public void beforeMethof() {
 		System.out.println("befor Method");
+		System.out.println("hddjdj");
 	}
 	@Test
 	public void tsstClass() {
