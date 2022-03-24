@@ -10,10 +10,11 @@ public class PRacticeTestclss {
 	@BeforeClass
 	public void login() {
 		System.out.println("besore Class ");
+		System.out.println("Before class ");
 	}
 	@BeforeMethod
 	public void beforeMethof() {
-		System.out.println("befor Metjod");
+		System.out.println("befor Method");
 	}
 	@Test
 	public void tsstClass() {
